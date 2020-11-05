@@ -5,7 +5,7 @@ var bg, bgImage;
 function preload(){
   mario_running =  loadAnimation("images/mar1.png","images/mar2.png","images/mar3.png",
   "images/mar4.png","images/mar5.png","images/mar6.png","images/mar7.png");
-  bgImage = loadImage("images/bgnew.png");
+  bgImage = loadImage("images/bgnew.jpg");
 }
 
 function setup() {
